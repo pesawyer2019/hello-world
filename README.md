@@ -1,2 +1,2 @@
 # hello-world
-a repository for the tutorial
+im an aspiring indie game developer, but more realistically a software developer, in High school.
